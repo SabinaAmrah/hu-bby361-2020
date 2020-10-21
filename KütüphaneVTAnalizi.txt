@@ -1,0 +1,40 @@
+Kütüphane Veri Tabanı Analizi
+
+1) Hayata geçirilecek sistem neye hizmet edecek?
+Mimarlık ve Tasarım alanlarına hitap eden kitab, dergi ve makalelerin yer aldığı bir üniversite kütüphanesinin veri tabanıdır.
+
+2) Veri tabanı hangi ihtiyaçları karşılayacak?
+Kullanıcılar:
+ İhtiyaç duydukları kaynakları veri tabanında arayabilecek 
+ Yayınevi ve yazarlarla ilgili bilgileri sorgulaya ve erişebilecek
+ Veri tabanında var olan kaynakların künye bilgilerine erişebilecek 
+ Ödünç alınması mümkün olan kaynakları sistem üzerinden görebilecek 
+ Kaynağın hangi tarihe kadar başka bir kullanıcı tarafından ödünç alındığı bilgisine erişebilecek
+ PDF versiyonu var olan kaynaklara erişebilecekler.
+
+3) Veri tabanında hangi veriler depolanacak?
+Kaynağın bilgileri
+Yazar bilgileri
+Yayınevi bilgileri
+
+4) Veri tabanında ne tür veriler depolanacak?
+
+Kaynak bilgileri:
+  1. Eser Adı
+  2. Yazar Adı, Soyadı
+  3. Basım Yılı ve Yeri
+  4. Yayınevi
+  5. Kaynağın Dili
+  6. Varsa ISBN
+
+Yazar bilgileri:
+  1. Yazar Adı
+  2. Yazar Soyadı
+  3. Yazar No
+
+Yayınevi bilgileri:
+  1. Yayınevi Adı
+  2. Yayınevi No
+  3. Yayınevi URL
+ 
+
