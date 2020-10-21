@@ -1,7 +1,7 @@
 Kütüphane Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-Mimarlık ve Tasarım alanlarına hitap eden kitab, dergi ve makalelerin yer aldığı bir üniversite kütüphanesinin veri tabanıdır.
+Mimarlık ve Tasarım alanlarına hitap eden kitab, dergi ve makalelerin yer aldığı bir kütüphanesinin veri tabanıdır.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
 Kullanıcılar:
